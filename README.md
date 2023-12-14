@@ -36,7 +36,7 @@ It is highly recommended that you use a tool like [`nvm`](https://github.com/nvm
 2. Go to root folder of this project in your terminal.
 3. Run `nvm install` followed by `nvm use`. This will install the version specified by this project in the `.nvmrc` file.
 
-### Running this project
+### Running this project detail
 
 1. Navigate to root folder of the project after installing Node.js
 2. Run the following in sequence, which only needs to be done once:
